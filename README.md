@@ -1,1 +1,1 @@
-This is my very first TOP project!! I'll create a recipe website using HTML, and hopefully CSS + JS later on. s
+This is my very first TOP project!! I'll create a recipe website using HTML, and hopefully CSS + JS later on.
